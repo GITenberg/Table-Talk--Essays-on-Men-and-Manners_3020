@@ -1,0 +1,45 @@
+_repo: Table-Talk--Essays-on-Men-and-Manners_3020
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hazlitt, William
+    birthdate: 1778
+    deathdate: 1830
+    gutenberg_agent_id: '800'
+    url: http://www.gutenberg.org/2009/agents/800
+    wikipedia: http://en.wikipedia.org/wiki/William_Hazlitt
+description: "Table-Talk is a collection of essays by the English cultural critic\
+  \ and social commentator William Hazlitt. It was originally published as two volumes,\
+  \ the first of which appeared in April 1821. The essays deal with topics such as\
+  \ art, literature and philosophy. Duncan Wu has described the essays as the \"pinnacle\
+  \ of [Hazlitt's] achievement\", and argues that Table-Talk and The Plain Speaker\
+  \ (1826) represent Hazlitt's masterpiece.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3020'
+  wikidata: Q7673114
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English essays'
+- GITenberg
+tableOfContents: On the pleasure of painting -- On the past and future -- On genius
+  and common sense -- Character of Cobbett -- On people with one idea -- On the ignorance
+  of the learned -- The Indian jugglers -- On living to one's-self -- On thought and
+  action -- On will-making -- On certain inconsistencies in Sir Joshua Reynolds's
+  discourses -- On paradox and common-place -- On vulgarity and affectation -- On
+  a landscape of Nicolas Poussin -- On Milton's sonnets -- On going a journey -- On
+  coffee-house politicians -- On the aristocracy of letters -- On critism -- On great
+  and little things -- On familiar style -- On effeminacy of character -- Why distant
+  objects please -- On corporate bodies -- Whether actors ought to sit in the boxes?
+  -- On the disadvantages of intellectual superiority -- On patronage and puffing
+  -- On the knowledge of character -- On the picturesque and ideal -- On the fear
+  of death.
+title: 'Table Talk: Essays on Men and Manners'
+url: http://www.gutenberg.org/ebooks/3020
+wikipedia:
+- https://en.wikipedia.org/wiki/Table-Talk_(Hazlitt)
