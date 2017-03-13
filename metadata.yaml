@@ -1,5 +1,8 @@
 _repo: Table-Talk--Essays-on-Men-and-Manners_3020
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hazlitt, William
@@ -14,6 +17,8 @@ description: "Table-Talk is a collection of essays by the English cultural criti
   \ art, literature and philosophy. Duncan Wu has described the essays as the \"pinnacle\
   \ of [Hazlitt's] achievement\", and argues that Table-Talk and The Plain Speaker\
   \ (1826) represent Hazlitt's masterpiece.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3020#Table-Talk--Essays-on-Men-and-Manners
 gutenberg_issued: '2002-01-01'
 gutenberg_type: Text
 identifiers:
